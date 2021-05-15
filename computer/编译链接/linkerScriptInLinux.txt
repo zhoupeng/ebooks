@@ -1,0 +1,3 @@
+https://max.book118.com/html/2017/0413/100128450.shtm
+
+《Linker Script in Linux - vmlinux_32.lds.S与vmlinux》
